@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blog-App/static/css/main.647d650e.css",
+    "main.js": "/Blog-App/static/js/main.9189234b.js",
+    "static/media/fairy.jpg": "/Blog-App/static/media/fairy.dd7567b651d8917fc0b6.jpg",
+    "static/media/Cover 1.jpg": "/Blog-App/static/media/Cover 1.fdf67f1d685dcb500928.jpg",
+    "static/media/Flower Woman.jpg": "/Blog-App/static/media/Flower Woman.54e306de952bd78cc118.jpg",
+    "static/media/Dog.jpg": "/Blog-App/static/media/Dog.a86f988a93a6d61c520a.jpg",
+    "static/media/dandelion flower.jpg": "/Blog-App/static/media/dandelion flower.a724587e9d7cf4651510.jpg",
+    "static/media/girl clear.jpg": "/Blog-App/static/media/girl clear.528186bf2275920a7491.jpg",
+    "static/media/WOMAN.jpg": "/Blog-App/static/media/WOMAN.89f27558ed50874096ae.jpg",
+    "static/media/green grass (2).jpg": "/Blog-App/static/media/green grass (2).9058996341c2e8dbd567.jpg",
+    "static/media/green grass.jpg": "/Blog-App/static/media/green grass.18bc0b72c0ac9f4b1b26.jpg",
+    "index.html": "/Blog-App/index.html",
+    "main.647d650e.css.map": "/Blog-App/static/css/main.647d650e.css.map",
+    "main.9189234b.js.map": "/Blog-App/static/js/main.9189234b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647d650e.css",
+    "static/js/main.9189234b.js"
+  ]
+}
